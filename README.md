@@ -1,10 +1,10 @@
 
 
 [UI]
-http://onsenui.io/ 
-http://chocolatechip-ui.com/ 
-http://jquerymobile.com/ 
-App Framework – http://app-framework-software.intel.com/ 
+* http://onsenui.io/ 
+* http://chocolatechip-ui.com/ 
+* http://jquerymobile.com/ 
+* App Framework – http://app-framework-software.intel.com/ 
 Twitter Bootstrap 3 – http://getbootstrap.com
 jQuery Mobile – http://jquerymobile.com
 Sencha Touch – http://www.sencha.com/products/touch/
