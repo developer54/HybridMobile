@@ -7,7 +7,9 @@
 * appgyver - http://www.appgyver.com/
 * titanium - http://www.appcelerator.com/titanium/
 * intel-xdk - http://xdk-software.intel.com/
-* crosswalk - http://www.crosswalk.com/
+* crosswalk - https://crosswalk-project.org/
+* starling - http://gamua.com/starling/
+* construct 2 - https://www.scirra.com/construct2
 
 
 ## [UI]
@@ -20,6 +22,7 @@
 * Sencha Touch – http://www.sencha.com/products/touch/
 * Kendo UI – http://www.kendoui.com/
 * TopCoat – http://topcoat.io/
+* FeatherUI - http://feathersui.com/
 
 ## [Jquery Alternative]
 * http://zeptojs.com
