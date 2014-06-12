@@ -23,6 +23,7 @@
 * Kendo UI – http://www.kendoui.com/
 * TopCoat – http://topcoat.io/
 * FeatherUI - http://feathersui.com/
+* Goratchet - http://goratchet.com/getting-started/
 
 ## [Jquery Alternative]
 * http://zeptojs.com
