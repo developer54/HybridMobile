@@ -7,6 +7,7 @@
 * appgyver - http://www.appgyver.com/
 * titanium - http://www.appcelerator.com/titanium/
 * intel-xdk - http://xdk-software.intel.com/
+* intel-app-framework - http://app-framework-software.intel.com/
 * crosswalk - https://crosswalk-project.org/
 * starling - http://gamua.com/starling/
 * construct 2 - https://www.scirra.com/construct2
